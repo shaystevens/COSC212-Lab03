@@ -1,0 +1,14 @@
+Advantages and Disadvantages of each debug method:
+1. Add element to web page and inject HTML into the DOM:
+Advantages - Displays directly on page
+Disadvantages - Very complex just to write a debug message
+
+
+2. Raise alert messages:
+Advantages - Displays as soon as you open the page, simple to code
+Disadvantages -
+
+
+3. Write information to the console:
+Advantages - You write debug information straight into the console
+Disadvantages - lose information after closing the browser 
